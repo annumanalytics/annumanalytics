@@ -9,17 +9,17 @@
 
 ---
 ### 🚀 Featured Projects 
-#### 🏣 Project 1: [E-Commerce Logistics Network Optimization Engine] (LINK)
+#### 🏣 Project 1: E-Commerce Logistics Network Optimization Engine (https://github.com/annumanalytics/Project-1-Logistics.git)
 * **Problem:** Supply Chain & Logistics Operations
 * **Core Approach:** Mixed-Integer Linear Programming using Python  
 * **The Goal:** Minimizing total fixed setup and distance-based freight transit costs across complex multi-city distribution systems.
 
-#### 🏣 Project 2: [E-Commerce Logistics Network Optimization Engine] (LINK)
+#### 🏣 Project 2: Quantitative Technology (https://github.com/annumanalytics/Project-2-Technology.git)
 * **Problem:** Supply Chain & Logistics Operations
 * **Core Approach:** Mixed-Integer Linear Programming using Python  
 * **The Goal:** Minimizing total fixed setup and distance-based freight transit costs across complex multi-city distribution systems.
 
-#### 🏣 Project 3: [E-Commerce Logistics Network Optimization Engine] (LINK)
+#### 🏣 Project 3: Digital Operations & Systems Optimizations (https://github.com/annumanalytics/Project-3-Operations.git)
 * **Problem:** Supply Chain & Logistics Operations
 * **Core Approach:** Mixed-Integer Linear Programming using Python  
 * **The Goal:** Minimizing total fixed setup and distance-based freight transit costs across complex multi-city distribution systems.
