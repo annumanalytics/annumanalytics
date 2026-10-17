@@ -9,17 +9,17 @@
 
 ---
 ### 🚀 Featured Projects 
-#### 🏣 [E-Commerce Logistics Network Optimization Engine] (LINK)
+#### 🏣 Project 1: [E-Commerce Logistics Network Optimization Engine] (LINK)
 * **Problem:** Supply Chain & Logistics Operations
 * **Core Approach:** Mixed-Integer Linear Programming using Python  
 * **The Goal:** Minimizing total fixed setup and distance-based freight transit costs across complex multi-city distribution systems.
 
-#### 🏣 [E-Commerce Logistics Network Optimization Engine] (LINK)
+#### 🏣 Project 2: [E-Commerce Logistics Network Optimization Engine] (LINK)
 * **Problem:** Supply Chain & Logistics Operations
 * **Core Approach:** Mixed-Integer Linear Programming using Python  
 * **The Goal:** Minimizing total fixed setup and distance-based freight transit costs across complex multi-city distribution systems.
 
-#### 🏣 [E-Commerce Logistics Network Optimization Engine] (LINK)
+#### 🏣 Project 3: [E-Commerce Logistics Network Optimization Engine] (LINK)
 * **Problem:** Supply Chain & Logistics Operations
 * **Core Approach:** Mixed-Integer Linear Programming using Python  
 * **The Goal:** Minimizing total fixed setup and distance-based freight transit costs across complex multi-city distribution systems.
